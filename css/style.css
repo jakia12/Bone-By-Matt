@@ -1050,14 +1050,14 @@ nav {
 }
 .hero-section.de-3 {
   position: relative;
-  background: url(../img/bg-img/counter-bg.png) no-repeat center;
+  /* background: url(../img/bg-img/counter-bg.png) no-repeat center; */
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .hero-section.app {
-  background: url(../img/bg-img/about-bg.png) no-repeat center;
+  /* background: url(../img/bg-img/about-bg.png) no-repeat center; */
   background-size: cover;
 }
 
@@ -2089,7 +2089,7 @@ nav {
   background-size: cover;
 }
 .counter-bg {
-  background: url(../img/bg-img/counter-bg.png) no-repeat center;
+  /* background: url(../img/bg-img/counter-bg.png) no-repeat center; */
   background-size: cover;
 }
 .wavy-border {
@@ -3552,7 +3552,7 @@ nav {
   float: right;
   border-radius: 15px;
   margin-left: 20px;
-  background: url(../img/bg-img/counter-bg.png) no-repeat center bottom;
+  /* background: url(../img/bg-img/counter-bg.png) no-repeat center bottom; */
 }
 .main-timeline .timeline-content .arrowo {
   position: absolute;
@@ -4087,7 +4087,7 @@ nav {
   overflow: hidden;
   box-sizing: border-box;
   border-radius: 20px;
-  background: url(../img/bg-img/counter-bg.png) no-repeat center bottom;
+  /* background: url(../img/bg-img/counter-bg.png) no-repeat center bottom; */
   background-size: cover;
   box-shadow: 0 10px 80px rgb(153 110 15 / 30%);
 }
@@ -5364,7 +5364,7 @@ textarea:required {
 * ----------------------------------------------------------------------------------------
 */
 .ico-counter {
-  background: url(../img/bg-img/counter-bg.png) no-repeat center top;
+  /* background: url(../img/bg-img/counter-bg.png) no-repeat center top; */
   padding: 30px;
   border-radius: 20px;
   margin-bottom: 20px;
