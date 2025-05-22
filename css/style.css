@@ -4686,6 +4686,7 @@ textarea:required {
 }
 .footer-logo img {
   width: 100px;
+  border-radius: 50px;
 }
 .footer-side-thumbnail {
   position: absolute;
